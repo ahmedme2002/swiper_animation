@@ -1,16 +1,20 @@
-# test_project
+# swiper_animation
 
-A new Flutter project.
+A Flutter project demonstrating swipe card animations using the **flutter_card_swiper** package.
+
+## Features
+
+- Show a card when pressing a button
+- Card animates from top to bottom (0.89 of the screen height)
+- Drag down to reveal the previous screen
+- Swipe left or right to trigger snackbars
+- Fully customizable card contents
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```sh
+git clone https://github.com/ahmedme2002/swiper_animation.git
+cd swiper_animation
+```
